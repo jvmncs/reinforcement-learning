@@ -95,4 +95,4 @@ ENV/
 .ipynb_checkpoints/
 
 ### Ignore Solutions
-**/*Solution.ipynb
+*Solution.ipynb
