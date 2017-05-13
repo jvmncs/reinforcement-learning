@@ -93,6 +93,3 @@ ENV/
 ### IPythonNotebook ###
 # Temporary data
 .ipynb_checkpoints/
-
-### Ignore Solutions
-*Solution.ipynb
